@@ -1,0 +1,1 @@
+git_good{needle_in_a_haystack}
